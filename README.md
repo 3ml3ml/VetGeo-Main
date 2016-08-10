@@ -2,12 +2,17 @@
 
 ### The free online cloud veterinary management system
 
-VetGeo is a new and free cloud vet management 
+VetGeo is a new and free cloud vet management system
 created and maintained by [Oliver Dolan]
 Stay up to date with the latest release and announcements on Twitter:
 [@vetgeodotcom](http://twitter.com/vetgeodotcom).
 
 Get started at http://vetgeo.com!
+
+## Issues
+Please note we are a new service so we may have some bugs or missing features. All bugs reported will be prioritised and resolved quickly, please post all bug reports as git hub issues.
+
+You can also vote on the issues using the thumb up and thumb down buttons to influence priorities
 
 ## Changelog
 - v 1.0.0 - Initial release to the public

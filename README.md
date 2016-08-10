@@ -16,6 +16,9 @@ https://github.com/VetGeo/Main/issues
 
 You can also vote on the issues using the thumb up and thumb down buttons to influence priorities
 
+Issues raised and sorted by priority can be found here:
+https://github.com/VetGeo/Main/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc
+
 ## Changelog
 - v 1.0.0 - Initial release to the public
 

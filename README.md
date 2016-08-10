@@ -10,7 +10,8 @@ Stay up to date with the latest release and announcements on Twitter:
 Get started at http://vetgeo.com!
 
 ## Issues
-Please note we are a new service so we may have some bugs or missing features. All bugs reported will be prioritised and resolved quickly, please post all bug reports as git hub issues.
+Please note we are a new service so we may have some bugs or missing features. All bugs reported will be prioritised and resolved quickly, please post all bug reports as git hub issues here
+https://github.com/VetGeo/Main/issues
 
 You can also vote on the issues using the thumb up and thumb down buttons to influence priorities
 

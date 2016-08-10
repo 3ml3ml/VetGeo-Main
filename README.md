@@ -10,7 +10,7 @@ Stay up to date with the latest release and announcements on Twitter:
 Get started at http://vetgeo.com!
 
 ## Changelog
-- v 1.0.0
+- v 1.0.0 - Initial release to the public
 
 ## Versioning
 

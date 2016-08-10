@@ -80,4 +80,4 @@ of all the web programming work that every site needs, whilst trying to push the
 
 #Register
 You can register your free online account at:
-www.vetgeo.com
+[app.vetgeo.com](http://app.vetgeo.com/Web/CoreWeb/Register.aspx)

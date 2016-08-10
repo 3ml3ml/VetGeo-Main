@@ -68,3 +68,7 @@ of all the web programming work that every site needs, whilst trying to push the
 * You can create customized orders
 
 * You can generate sales and appointment reports [More to come in the future] 
+
+#Register
+You can register your free online account at:
+www.vetgeo.com

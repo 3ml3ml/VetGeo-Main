@@ -8,6 +8,8 @@ created and maintained by [Oliver Dolan]
 Stay up to date with the latest release and announcements on Twitter:
 [@vetgeodotcom](http://twitter.com/vetgeodotcom).
 
+PLEASE NOTE - Frequently Updated (Usually weekly)
+
 Get started at http://vetgeo.com!
 
 ## Issues

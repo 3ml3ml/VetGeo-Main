@@ -1,4 +1,4 @@
-# [VetGeo v1.0.0] (http://vetgeo.com)
+# [VetGeo] (http://vetgeo.com)
 
 ### The free online cloud veterinary management system
 

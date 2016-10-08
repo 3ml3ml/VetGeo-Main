@@ -21,7 +21,7 @@ You can also vote on the issues using the thumb up and thumb down buttons to inf
 Issues raised and sorted by priority can be found [here](https://github.com/VetGeo/Main/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc).
 
 ## Changelog
-- v 1.0.1 - 7th Oct 2016
+- v 1.1.0 - 7th Oct 2016
     - Products can be added, updated and deleted
     - Products can be added to an invoice
     - User account management page is available from the top nav bar

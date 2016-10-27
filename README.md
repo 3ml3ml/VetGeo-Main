@@ -8,7 +8,7 @@ created and maintained by [Oliver Dolan] & his team
 Stay up to date with the latest release and announcements on Twitter:
 [@vetgeodotcom](http://twitter.com/vetgeodotcom).
 
-PLEASE NOTE - Frequently Updated (Usually bi-weekly)
+PLEASE NOTE - Frequently Updated (Usually every 2/4 weeks)
 
 Get started at http://vetgeo.com!
 

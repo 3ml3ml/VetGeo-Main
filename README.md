@@ -21,6 +21,15 @@ You can also vote on the issues using the thumb up and thumb down buttons to inf
 Issues raised and sorted by priority can be found [here](https://github.com/VetGeo/Main/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc).
 
 ## Changelog
+- v 1.3.0 - 1st Nov 2016
+    - Products can be added, updated and deleted - Resolved
+    - Some users had difficulty creating animals - Resolved
+    - Animal delete - Resolved
+    - deleting an invoice not redirecting correctly - Resolved
+    - success or failure message should be shown after creating a calendar - Resolved
+    - practice name label on contact page should be changed to something more accurate - Resolved
+    - ability to delete products from an invoice - Resolved
+    - ammend database - Resolved
 - v 1.2.0 - 7th Oct 2016
     - Products can be added, updated and deleted
     - Products can be added to an invoice

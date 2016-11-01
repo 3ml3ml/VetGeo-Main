@@ -22,7 +22,6 @@ Issues raised and sorted by priority can be found [here](https://github.com/VetG
 
 ## Changelog
 - v 1.3.0 - 1st Nov 2016
-    - Products can be added, updated and deleted - Resolved
     - Some users had difficulty creating animals - Resolved
     - Animal delete - Resolved
     - deleting an invoice not redirecting correctly - Resolved

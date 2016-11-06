@@ -1,8 +1,8 @@
 # [VetGeo] (http://vetgeo.com)
 
-### The free online cloud veterinary management system
+### Vetgeo an online cloud veterinary management system
 
-VetGeo is a new and free cloud vet management system
+VetGeo is a new cloud vet management system
 created and maintained by [Oliver Dolan] & his team
 
 Stay up to date with the latest release and announcements on Twitter:

@@ -3,7 +3,8 @@
 ### Vetgeo is an online cloud veterinary management system
 
 VetGeo is a new cloud vet management system
-created and maintained by the vetgeo.com team
+created and maintained by the Oliver Dolan & his team
+The current release is FREE!
 
 Stay up to date with the latest release and announcements on Twitter:
 [@vetgeodotcom](http://twitter.com/vetgeodotcom).

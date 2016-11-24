@@ -24,7 +24,7 @@ You can also vote on the issues using the thumb up and thumb down buttons to inf
 Issues raised and sorted by priority can be found [here](https://github.com/VetGeo/Main/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc).
 
 ## Changelog
-- v 1-4-0 - 24th Nov 2016
+- v 1.4.0 - 24th Nov 2016
     - merge full name and last name on contact list page - Resolved
     - loading box should function better and have correct text throughout the app - Resolved
     - fixes for creating of service orders in schedule view - Resolved

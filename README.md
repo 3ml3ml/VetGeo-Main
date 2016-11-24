@@ -24,6 +24,16 @@ You can also vote on the issues using the thumb up and thumb down buttons to inf
 Issues raised and sorted by priority can be found [here](https://github.com/VetGeo/Main/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc).
 
 ## Changelog
+- v 1-4-0 - 24th Nov 2016
+    - merge full name and last name on contact list page - Resolved
+    - loading box should function better and have correct text throughout the app - Resolved
+    - fixes for creating of service orders in schedule view - Resolved
+    - Cannot create exceptions for some resources - Resolved
+    - the name of a person not registered with the system is set to ". ." this needs to be changed to be more clear - Resolved
+    - improvements in some of the display text - Resolved
+    - stop reloading the sidebar so often - Resolved
+    - support is required for multiple currencies - Resolved
+    - register page complexity - Resolved
 - v 1.3.0 - 1st Nov 2016
     - Some users had difficulty creating animals - Resolved
     - Animal delete - Resolved

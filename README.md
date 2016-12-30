@@ -4,7 +4,7 @@
 
 VetGeo is a new cloud vet management system 
 
-The software is created and maintained by the Oliver Dolan & his team
+The software is created and maintained by the [Oliver Dolan](https://github.com/OliverDolan) & his team
 
 The current release is FREE!
 

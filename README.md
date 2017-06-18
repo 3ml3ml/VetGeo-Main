@@ -25,6 +25,7 @@ Issues raised and sorted by priority can be found [here](https://github.com/VetG
 
 ## Changelog
 - v 1.7.0 - 27 May 2017 - https://github.com/OliverDolan/VetGeo-Main/milestone/7?closed=1
+    - See milestone 7
 - v 1.6.0 - 08 Mar 2017 - https://github.com/OliverDolan/VetGeo-Main/milestone/6?closed=1
     - See milestone 6
 - v 1.5.0 - 31st Jan 2017 - https://github.com/OliverDolan/VetGeo-Main/milestone/5?closed=1

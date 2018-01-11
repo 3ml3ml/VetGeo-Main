@@ -24,6 +24,7 @@ You can also vote on the issues using the thumb up and thumb down buttons to inf
 Issues raised and sorted by priority can be found [here](https://github.com/VetGeo/Main/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc).
 
 ## Changelog
+- v 2.0.0 - 14 Feb 2018 - https://github.com/OliverDolan/VetGeo-Main/milestone/10
 - v 1.7.0 - 27 May 2017 - https://github.com/OliverDolan/VetGeo-Main/milestone/7?closed=1
     - See milestone 7
 - v 1.6.0 - 08 Mar 2017 - https://github.com/OliverDolan/VetGeo-Main/milestone/6?closed=1

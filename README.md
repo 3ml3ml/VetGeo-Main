@@ -11,11 +11,13 @@ The current release is FREE!
 Stay up to date with the latest release and announcements on Twitter:
 [@vetgeodotcom](http://twitter.com/vetgeodotcom).
 
-PLEASE NOTE - Frequently Updated (Usually every 2/4 weeks)
+PLEASE NOTE - Frequently Updated (Usually every 4/8 weeks)
 
 Get started at http://vetgeo.com!
 
 ## Issues
+Before 2019 the product will undergo another large UI update which will bring the application a much newer and modern user interface. We will also move to a 3rd party authentication platform to increase security of the platform as a whole.
+
 Please note we are a new service so we may have some bugs or missing features. All bugs reported will be prioritised and resolved quickly, please post all bug reports as git hub issues here:
 https://github.com/VetGeo/Main/issues
 
